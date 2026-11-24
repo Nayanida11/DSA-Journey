@@ -1,6 +1,3 @@
-```java
-package LL;
-
 public class CSLL {
 
     private Node head;
@@ -309,4 +306,4 @@ public class CSLL {
         System.out.println("Size: " + list.getSize());
     }
 }
-```
+
